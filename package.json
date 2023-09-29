@@ -1,0 +1,19 @@
+{
+  "name": "kook",
+  "version": "1.0.0",
+  "description": "kokokokok",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jozhuare99/kook.git"
+  },
+  "author": "joshua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jozhuare99/kook/issues"
+  },
+  "homepage": "https://github.com/jozhuare99/kook#readme"
+}
